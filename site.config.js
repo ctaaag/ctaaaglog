@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "ctaaag's Blog",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/ctaaagAvatar.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "developer",
     bio: "매일 성장하는 개발자",
     email: "qudxor102@gmail.com",
@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `지식의샘물`,
+      href: "https://www.notion.so/s-a161263eb337473e8ad755ce9ca2f64a?pvs=4",
     },
   ],
   // blog setting (required)
