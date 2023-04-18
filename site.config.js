@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `지식의샘물`,
-      href: "https://www.notion.so/s-a161263eb337473e8ad755ce9ca2f64a?pvs=4",
+      name: `이력서`,
+      href: "https://www.notion.so/aba4228aae0d4921977dc235aab3046d",
     },
   ],
   // blog setting (required)
