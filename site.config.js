@@ -12,7 +12,7 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `이력서`,
+      name: `About Me`,
       href: "https://www.notion.so/aba4228aae0d4921977dc235aab3046d",
     },
   ],
