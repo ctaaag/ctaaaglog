@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `About Me`,
-      href: "https://www.notion.so/aba4228aae0d4921977dc235aab3046d",
+      href: "https://www.notion.so/78986d2e51954ce3b12d30594070e3d1?pvs=4",
     },
   ],
   // blog setting (required)
